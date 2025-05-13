@@ -16,7 +16,7 @@ A fun interactive web simulation of a self-destruct button with countdown, audio
 
 ![Countdown sequence activated](https://github.com/user-attachments/assets/72a1481e-dd8f-4241-8c97-bfdfa805927d)
 
-![Self-destruct in progress](https://github.com/user-attachments/assets/4737ac05-5e38-446d-be10-17612e8a9da9)
+![Self-destruct in progress](https://github.com/user-attachments/assets/9058e3c9-856a-45f0-9a10-d4c7796cb9cd)
 
 ![Final sequence](https://github.com/user-attachments/assets/983d0238-0526-4746-9108-14538ee809b1)
 

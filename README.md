@@ -18,8 +18,6 @@ A fun interactive web simulation of a self-destruct button with countdown, audio
 
 ![Self-destruct in progress](https://github.com/user-attachments/assets/9058e3c9-856a-45f0-9a10-d4c7796cb9cd)
 
-![Final sequence](https://github.com/user-attachments/assets/983d0238-0526-4746-9108-14538ee809b1)
-
 ## 🚀 Try It Out!
 
 Just open `index.html` in your browser to experience the self-destruct sequence!
